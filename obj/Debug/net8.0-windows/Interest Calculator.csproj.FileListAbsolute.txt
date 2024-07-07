@@ -1,0 +1,17 @@
+G:\repos\Interest Calculator\bin\Debug\net8.0-windows\Interest Calculator.exe
+G:\repos\Interest Calculator\bin\Debug\net8.0-windows\Interest Calculator.deps.json
+G:\repos\Interest Calculator\bin\Debug\net8.0-windows\Interest Calculator.runtimeconfig.json
+G:\repos\Interest Calculator\bin\Debug\net8.0-windows\Interest Calculator.dll
+G:\repos\Interest Calculator\bin\Debug\net8.0-windows\Interest Calculator.pdb
+G:\repos\Interest Calculator\obj\Debug\net8.0-windows\Interest_Calculator.Form1.resources
+G:\repos\Interest Calculator\obj\Debug\net8.0-windows\Interest Calculator.csproj.GenerateResource.cache
+G:\repos\Interest Calculator\obj\Debug\net8.0-windows\Interest Calculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\Interest Calculator\obj\Debug\net8.0-windows\Interest Calculator.AssemblyInfoInputs.cache
+G:\repos\Interest Calculator\obj\Debug\net8.0-windows\Interest Calculator.AssemblyInfo.cs
+G:\repos\Interest Calculator\obj\Debug\net8.0-windows\Interest Calculator.csproj.CoreCompileInputs.cache
+G:\repos\Interest Calculator\obj\Debug\net8.0-windows\Interest Calculator.dll
+G:\repos\Interest Calculator\obj\Debug\net8.0-windows\refint\Interest Calculator.dll
+G:\repos\Interest Calculator\obj\Debug\net8.0-windows\Interest Calculator.pdb
+G:\repos\Interest Calculator\obj\Debug\net8.0-windows\Interest Calculator.genruntimeconfig.cache
+G:\repos\Interest Calculator\obj\Debug\net8.0-windows\ref\Interest Calculator.dll
+G:\repos\Interest Calculator\obj\Debug\net8.0-windows\Interest Calculator.sourcelink.json

@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Interest_Calculator</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>IC.ico</ApplicationIcon>
+    <Company>TRK - Complete IT Solutions</Company>
+    <Description>**Simple Interest Calculator App by TRK - The Complete IT Solutions**
+
+The Simple Interest Calculator app, developed by TRK - The Complete IT Solutions, is an intuitive and user-friendly tool designed to help you calculate simple interest with ease. This app is perfect for students, financial professionals, and anyone who needs quick and accurate interest calculations. Just enter the principal amount, interest rate, and time period to get instant results. The app features a clean interface, ensures accurate calculations, and is optimized for both speed and performance, making it an essential tool for your financial calculations. Whether for educational purposes or financial planning, the Simple Interest Calculator app is your reliable companion.</Description>
+    <Copyright>TRK-The Complete IT Solutions</Copyright>
+    <PackageProjectUrl>trk.com.np</PackageProjectUrl>
+    <PackageIcon>IC.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="IC.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\LIBRA\Downloads\IC.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
